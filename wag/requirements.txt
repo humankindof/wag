@@ -39,7 +39,7 @@ urllib3==1.24.3
 virtualenv==16.7.5
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
-wagtail==2.6.2
+wagtail==2.7.2
 wagtail-cache==0.5.2
 wagtail-import-export==0.2
 wagtailfontawesome==1.1.4
